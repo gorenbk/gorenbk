@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @gorenbk
-- 👀 I’m interested in python
-- 🌱 I’m currently learning c++
-- 📫 How to reach me email mega_master81014@gmail.com
+- goren
+- rust
